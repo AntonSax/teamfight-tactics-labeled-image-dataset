@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>31.png</filename>
-	<path>C:\Users\Tony\Documents\Projects\Personal Projects\teamfight-tactics-object-recognition\images\31.png</path>
+	<filename>58.png</filename>
+	<path>C:\Users\Tony\Documents\Projects\Personal Projects\teamfight-tactics-object-recognition\images\58.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1920</width>
-		<height>1080</height>
+		<width>3840</width>
+		<height>2160</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>379</ymin>
-			<xmax>183</xmax>
-			<ymax>436</ymax>
+			<ymin>765</ymin>
+			<xmax>359</xmax>
+			<ymax>867</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>327</ymin>
-			<xmax>183</xmax>
-			<ymax>384</ymax>
+			<ymin>670</ymin>
+			<xmax>359</xmax>
+			<ymax>772</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>280</ymin>
-			<xmax>183</xmax>
-			<ymax>337</ymax>
+			<ymin>563</ymin>
+			<xmax>359</xmax>
+			<ymax>665</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,33 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>430</ymin>
-			<xmax>183</xmax>
-			<ymax>487</ymax>
+			<ymin>863</ymin>
+			<xmax>359</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trait_dusk2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>970</ymin>
+			<xmax>356</xmax>
+			<ymax>1076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>trait_tormented1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1058</ymin>
+			<xmax>356</xmax>
+			<ymax>1164</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>483</ymin>
-			<xmax>183</xmax>
-			<ymax>540</ymax>
+			<ymin>1066</ymin>
+			<xmax>356</xmax>
+			<ymax>1172</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>559</ymin>
-			<xmax>183</xmax>
-			<ymax>616</ymax>
+			<ymin>1212</ymin>
+			<xmax>356</xmax>
+			<ymax>1318</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +114,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>607</ymin>
-			<xmax>183</xmax>
-			<ymax>664</ymax>
+			<ymin>1320</ymin>
+			<xmax>356</xmax>
+			<ymax>1426</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +126,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>657</ymin>
-			<xmax>183</xmax>
-			<ymax>714</ymax>
+			<ymin>1418</ymin>
+			<xmax>356</xmax>
+			<ymax>1524</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -114,69 +138,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>710</ymin>
-			<xmax>183</xmax>
-			<ymax>767</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>trait_adept1</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>761</ymin>
-			<xmax>183</xmax>
-			<ymax>818</ymax>
+			<ymin>1516</ymin>
+			<xmax>356</xmax>
+			<ymax>1622</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>trait_shade_chosen</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2</xmin>
-			<ymin>432</ymin>
-			<xmax>56</xmax>
-			<ymax>490</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1star_cassiopeia</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>358</xmin>
-			<ymin>649</ymin>
-			<xmax>514</xmax>
-			<ymax>787</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>2star_kayn</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>772</xmin>
-			<ymin>479</ymin>
-			<xmax>911</xmax>
-			<ymax>701</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>2star_kayn_blue_chosen</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>770</xmin>
-			<ymin>477</ymin>
-			<xmax>909</xmax>
-			<ymax>699</ymax>
+			<xmin>1</xmin>
+			<ymin>865</ymin>
+			<xmax>104</xmax>
+			<ymax>974</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -185,46 +161,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>504</xmin>
-			<ymin>480</ymin>
-			<xmax>706</xmax>
-			<ymax>680</ymax>
+			<xmin>2416</xmin>
+			<ymin>1080</ymin>
+			<xmax>2916</xmax>
+			<ymax>1535</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>2star_azirsoldier</name>
+		<name>2star_kaynblue</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>542</xmin>
-			<ymin>395</ymin>
-			<xmax>658</xmax>
-			<ymax>535</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>2star_sett</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>616</xmin>
-			<ymin>244</ymin>
-			<xmax>734</xmax>
-			<ymax>459</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>2star_azirsoldier</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>899</xmin>
-			<ymin>397</ymin>
-			<xmax>1013</xmax>
-			<ymax>534</ymax>
+			<xmin>2014</xmin>
+			<ymin>1038</ymin>
+			<xmax>2319</xmax>
+			<ymax>1472</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -233,34 +185,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1018</xmin>
-			<ymin>492</ymin>
-			<xmax>1166</xmax>
-			<ymax>655</ymax>
+			<xmin>1527</xmin>
+			<ymin>1046</ymin>
+			<xmax>1791</xmax>
+			<ymax>1422</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>2star_kayn_blue</name>
+		<name>2star_azirsoldier</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1151</xmin>
-			<ymin>479</ymin>
-			<xmax>1286</xmax>
-			<ymax>705</ymax>
+			<xmin>1930</xmin>
+			<ymin>689</ymin>
+			<xmax>2164</xmax>
+			<ymax>1007</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>2star_sett</name>
+		<name>2star_azirsoldier</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1293</xmin>
-			<ymin>492</ymin>
-			<xmax>1423</xmax>
-			<ymax>695</ymax>
+			<xmin>1463</xmin>
+			<ymin>672</ymin>
+			<xmax>1697</xmax>
+			<ymax>990</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -269,118 +221,154 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1271</xmin>
-			<ymin>341</ymin>
-			<xmax>1392</xmax>
-			<ymax>525</ymax>
+			<xmin>981</xmin>
+			<ymin>608</ymin>
+			<xmax>1239</xmax>
+			<ymax>942</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1star_yone</name>
+		<name>2star_lillia</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1158</xmin>
-			<ymin>330</ymin>
-			<xmax>1267</xmax>
-			<ymax>506</ymax>
+			<xmin>979</xmin>
+			<ymin>1031</ymin>
+			<xmax>1251</xmax>
+			<ymax>1462</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>2star_sejuani</name>
+		<name>2star_ezreal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>942</xmin>
-			<ymin>245</ymin>
-			<xmax>1094</xmax>
-			<ymax>485</ymax>
+			<xmin>1284</xmin>
+			<ymin>1069</ymin>
+			<xmax>1499</xmax>
+			<ymax>1425</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_thief</name>
+		<name>2star_yone</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>674</xmin>
-			<ymin>272</ymin>
-			<xmax>709</xmax>
-			<ymax>306</ymax>
+			<xmin>2350</xmin>
+			<ymin>599</ymin>
+			<xmax>2619</xmax>
+			<ymax>957</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_thief</name>
+		<name>2star_thresh</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1241</xmin>
-			<ymin>499</ymin>
-			<xmax>1276</xmax>
-			<ymax>533</ymax>
+			<xmin>1162</xmin>
+			<ymin>872</ymin>
+			<xmax>1466</xmax>
+			<ymax>1265</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_thief</name>
+		<name>3star_sett</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1341</xmin>
-			<ymin>363</ymin>
-			<xmax>1376</xmax>
-			<ymax>397</ymax>
+			<xmin>1711</xmin>
+			<ymin>512</ymin>
+			<xmax>1919</xmax>
+			<ymax>985</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_shroud</name>
+		<name>item_runaan</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>653</xmin>
-			<ymin>271</ymin>
-			<xmax>684</xmax>
-			<ymax>305</ymax>
+			<xmin>1418</xmin>
+			<ymin>1107</ymin>
+			<xmax>1463</xmax>
+			<ymax>1155</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_jeweledgauntlet</name>
+		<name>item_statikk</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>632</xmin>
-			<ymin>274</ymin>
-			<xmax>661</xmax>
-			<ymax>304</ymax>
+			<xmin>1374</xmin>
+			<ymin>1107</ymin>
+			<xmax>1419</xmax>
+			<ymax>1155</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_warmogs</name>
+		<name>item_giantslayer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>844</xmin>
-			<ymin>500</ymin>
-			<xmax>876</xmax>
-			<ymax>534</ymax>
+			<xmin>1337</xmin>
+			<ymin>1105</ymin>
+			<xmax>1382</xmax>
+			<ymax>1153</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_hoj</name>
+		<name>item_zephy</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>827</xmin>
-			<ymin>502</ymin>
-			<xmax>851</xmax>
-			<ymax>530</ymax>
+			<xmin>1225</xmin>
+			<ymin>926</ymin>
+			<xmax>1270</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_guinsoo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1070</xmin>
+			<ymin>646</ymin>
+			<xmax>1115</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_shojin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1029</xmin>
+			<ymin>646</ymin>
+			<xmax>1074</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_zephy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1063</xmin>
+			<ymin>1079</ymin>
+			<xmax>1108</xmax>
+			<ymax>1127</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -389,46 +377,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>796</xmin>
-			<ymin>501</ymin>
-			<xmax>831</xmax>
-			<ymax>534</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>item_shroud</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1175</xmin>
-			<ymin>362</ymin>
-			<xmax>1206</xmax>
-			<ymax>396</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>item_quicksilver</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1321</xmin>
-			<ymin>361</ymin>
-			<xmax>1353</xmax>
-			<ymax>394</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>item_deathblade</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1297</xmin>
-			<ymin>361</ymin>
-			<xmax>1329</xmax>
-			<ymax>394</ymax>
+			<xmin>1758</xmin>
+			<ymin>569</ymin>
+			<xmax>1805</xmax>
+			<ymax>625</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -437,46 +389,82 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1012</xmin>
-			<ymin>270</ymin>
-			<xmax>1043</xmax>
-			<ymax>300</ymax>
+			<xmin>1801</xmin>
+			<ymin>571</ymin>
+			<xmax>1846</xmax>
+			<ymax>619</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_zzrot</name>
+		<name>item_sunfire</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>989</xmin>
-			<ymin>270</ymin>
-			<xmax>1019</xmax>
-			<ymax>304</ymax>
+			<xmin>1839</xmin>
+			<ymin>572</ymin>
+			<xmax>1884</xmax>
+			<ymax>620</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_trapclaw</name>
+		<name>item_sunfire</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1220</xmin>
-			<ymin>499</ymin>
-			<xmax>1255</xmax>
-			<ymax>533</ymax>
+			<xmin>2183</xmin>
+			<ymin>1081</ymin>
+			<xmax>2228</xmax>
+			<ymax>1129</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>item_frozenheart</name>
+		<name>item_luden</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1195</xmin>
-			<ymin>500</ymin>
-			<xmax>1230</xmax>
-			<ymax>534</ymax>
+			<xmin>2144</xmin>
+			<ymin>1079</ymin>
+			<xmax>2189</xmax>
+			<ymax>1127</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_hoj</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2637</xmin>
+			<ymin>659</ymin>
+			<xmax>2682</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_jeweledgauntlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2593</xmin>
+			<ymin>658</ymin>
+			<xmax>2638</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>item_ga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2553</xmin>
+			<ymin>658</ymin>
+			<xmax>2598</xmax>
+			<ymax>706</ymax>
 		</bndbox>
 	</object>
 </annotation>
