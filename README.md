@@ -7,7 +7,7 @@ and taking screenshots of videos posted there or on youtube.
 If I have downloaded or screencapped an image of a game that you played and you would like me to remove it, please message me.
 
 <br/>Images are labeled with numbers starting from 1.
-<br/>There are currently 40 / 200 images labeled. 
+<br/>There are currently 100 / 200 images labeled. 
 
 <br/>The labels are .xml files made with @tzutalin's *labelImg* tool, which can be found here: https://github.com/tzutalin/labelImg
 <br/>All labels are of in-game shots.
