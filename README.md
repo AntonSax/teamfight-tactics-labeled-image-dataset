@@ -10,6 +10,7 @@ If I have downloaded or screencapped an image of a game that you played and you 
 <br/>There are currently 100 / 200 images labeled. 
 
 <br/>The labels are .xml files made with @tzutalin's *labelImg* tool, which can be found here: https://github.com/tzutalin/labelImg
+<br/>After more searching, if I am to continue with this I might use DeepLabel instead: https://github.com/jveitchmichaelis/deeplabel
 <br/>All labels are of in-game shots.
 
 ## Labels
